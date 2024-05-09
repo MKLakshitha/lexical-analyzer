@@ -1,6 +1,9 @@
 # Lexical Analyzer Application
 
-Welcome to the Lexical Analyzer application! This repository contains a simple console and GUI-based lexical analyzer. This README provides guidance on how to clone the repository, set up your environment, and run the application. We are NSBM Green University Computer Science Students.
+Welcome to the Lexical Analyzer application! 
+This repository contains a simple console and GUI-based lexical analyzer. 
+This README provides guidance on how to clone the repository, set up your environment, and run the application. 
+We are NSBM Green University Computer Science Students.
 
 ## Table of Contents
 - [Project Overview](#project-overview)
