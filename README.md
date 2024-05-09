@@ -9,10 +9,7 @@ Welcome to the Lexical Analyzer application! This repository contains a simple c
 - [Usage](#usage)
   - [Console Application](#console-application)
   - [GUI Application](#gui-application)
-- [Customization](#customization)
-- [Sample Screenshots](#sample-screenshots)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Project Overview
 This project consists of two components:
@@ -33,26 +30,27 @@ To run this project, you need:
    cd lexical-analyzer
 
 2. **Install the requirements**
-  ```bash
-  pip install -r requirements.txt
+   ```bash
+   pip install -r requirements.txt
 
 ## Usage
 
-### Console Application
+### Console-Application
 
 After installation, navigate to the project directory.
-
 Run the console application:
-  ```bash
-  python console_analyzer.py
 
-### GUI Application
+ 
+    python console_analyzer.py
+
+### GUI-Application
 
 After installation, navigate to the project directory.
 
 Run the GUI application:
-  ```bash
-  python console_analyzer.py
+
+
+    python console_analyzer.py
 
 A graphical interface will open. You can input text and view the lexical analysis results.
 
